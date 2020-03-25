@@ -1,14 +1,14 @@
 ---
-title: "kCube Corona Virus Map"
+title: "kCube Corona Virus Map <img src=\"KCUBE.png\" style=\"float: right;\"/> "
 output: 
   flexdashboard::flex_dashboard:
     orientation: rows
     social: menu
-    source_code: embed
     vertical_layout: fill
 ---
 
 ```{r setup, include=FALSE}
+
 
 #------------------ Data ------------------
 
