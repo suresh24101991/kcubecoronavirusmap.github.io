@@ -3,9 +3,9 @@ navbar:
   title: "kCube Corona Virus Map"
   left:
     - text: "Map"
-      href: index.html
+      href: _site/index.html
     - text: "About"
-      href: index.html
+      href: _site/index.html
 output:
   html_document:
     theme: cosmo
