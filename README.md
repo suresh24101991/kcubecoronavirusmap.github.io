@@ -1,1 +1,0 @@
-# kcubecoronavirusmap.github.io
