@@ -1,0 +1,12 @@
+name: "kCube Corona Virus Map"
+navbar:
+  title: "kCube Corona Virus Map"
+  left:
+    - text: "Map"
+      href: index.html
+    - text: "About"
+      href: index.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
